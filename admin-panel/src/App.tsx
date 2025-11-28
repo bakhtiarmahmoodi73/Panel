@@ -6,7 +6,7 @@ import { CssBaseline } from "@mui/material";
 import { store } from "./store";
 import { darkTheme } from "./themes/darkTheme";
 import Layout from "./components/Layout";
-import LoginCard from "./pages/LoginCard";
+import LoginCard from "./pages/LogPage";
 import RegisterPage from "./pages/RegisterPage";
 import ForgotPasswordPage from "./pages/ForgotPassword";
 import ChangePasswordPage from "./pages/ChangePassword";
